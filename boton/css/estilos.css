@@ -1,0 +1,159 @@
+*_{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+bod_{
+    background: linear-gradient(85deg, #ffffff,rgba(255,255,255,0.773));
+}
+
+
+
+.contenedor
+ {
+	width: 95%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+article h2 {
+	color:#283035d4;
+	font-size: 32px;
+	font-weight: normal;
+	margin-bottom: 20px;
+}
+
+article {
+	margin: 50px 0;
+	background: linear-gradient(85deg, #f1fcff,#ffffffc5);
+	color: #000;
+	font-size: 16px;
+	line-height: 28px;
+	padding: 40px;
+  border-radius: 15px;
+  width: 90%;
+  margin-left: 20px;
+}
+
+
+
+
+.button0{
+    width: 350px;
+    display: block;
+    background: linear-gradient(50deg, #4a7ff7, #f21cea);
+    padding: 20px 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 30px;
+    transition: all 300ms;
+}
+
+.button2{
+    width: 350px;
+    display: block;
+    background: linear-gradient(50deg, #53f47a,#2151f9da);
+    padding: 20px 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 30px;
+    transition: all 300ms;
+}
+
+
+.button3{
+    width: 350px;
+    display: block;
+    background: linear-gradient(50deg, #f4d353,#d8cd7568);
+    padding: 20px 30px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 30px;
+    transition: all 300ms;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.button2:hover{
+    transform: translateY(10px);
+    box-shadow: 0px 30px 5px -15px rgba(0,0,0,0.3);
+}
+
+
+
+.button0:hover{
+    transform: translateY(10px);
+    box-shadow: 0px 30px 5px -15px rgba(0,0,0,0.3);
+}
+
+
+
+.button3:hover{
+    transform: translateY(10px);
+    box-shadow: 0px 30px 5px -15px rgba(0,0,0,0.3);
+}
+
+
+
+p_ {
+  font-variant: small-caps;
+  text-align: center;
+  margin-top: -30px;
+	color: #2D5F85;
+	font-size: 35px;
+  margin: auto;
+}
+
+
+ 
+ .foto {
+   width:60px;
+   height:60px ;
+   background:#ffffffa4;
+   border-radius: 50%;
+   overflow: hidden;
+   margin-top: 80px;
+   left: 150px;
+    }
+    
+   
+    
+   .foto img{
+     width: 100%;
+   }
+
+
